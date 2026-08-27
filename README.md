@@ -1,6 +1,10 @@
 # Hi, I'm Szymon 👋
 
-Lead Software Developer based in Berlin. I build things — mostly software, sometimes other stuff.
+> The sky above the port was the color of television, tuned to a dead channel.
+>
+> — William Gibson, *Neuromancer*
+
+Lead Software Developer based in Berlin. I build things. Mostly software, sometimes other stuff.
 
 ## Badges
 
